@@ -1,2 +1,2 @@
-# jarredjordan.github.io
+# aerotools.github.io
 Engineering tools for students
